@@ -6,7 +6,7 @@
 
 [Video Tutorial on Youtube](https://youtu.be/gK0v_d91epk)
 
-### This is a free admin dashboard ui kit built with:
+### This is a admin dashboard UI built with:
 
 -   React
 -   Tailwind CSS
